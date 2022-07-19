@@ -1,0 +1,51 @@
+body {
+    background-color: #FFF;
+    color: #777;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.list.list-icons li {
+    position: relative;
+    padding-left: 25px;
+}
+.list li {
+    margin-bottom: 13px;
+    /* border: 1px solid red; */
+    background-color: rgb(239, 184, 184);
+}
+li {
+    line-height: 24px;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.buttons{
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(181, 232, 232);
+}
+.home, .tender-page{
+    padding: 10px 15px;
+    background-color: rgb(79, 166, 111);
+    border: 2px solid transparent;
+    border-radius: 4px;
+}
+#tenders{
+    border: 5px solid gray;
+    margin: 0 10px;
+}
